@@ -1,0 +1,6 @@
+{
+  "name": "TransitMath — Smart Transit Numerical Simulator",
+  "description": "Real-time moving bus simulation and numerical methods workbench for estimating bus arrival headways, passenger waiting times, and service-level target convergence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
